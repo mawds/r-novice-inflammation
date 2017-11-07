@@ -1,3 +1,11 @@
+r-programming-intro
+===================
+
+This course is based on the [Software Carpentry](http://software-carpentry.org) course [Programming With R](http://swcarpentry.github.io/r-novice-inflammation/).  It has (will be) modified to better fit with the UoM course [R for data analysis](https://uomresearchit.github.io/r-tidyverse-intro/), which uses the tidyverse.   
+
+The original readme is below:
+
+
 r-novice-inflammation
 =====================
 
